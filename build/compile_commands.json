@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/College/erickOS/exercise2/build",
+  "command": "C:/msys64/mingw32/bin/gcc.exe  @CMakeFiles/custom_shell.dir/includes_C.rsp -g -std=gnu99 -o CMakeFiles/custom_shell.dir/src/main.c.obj -c C:/College/erickOS/exercise2/src/main.c",
+  "file": "C:/College/erickOS/exercise2/src/main.c"
+},
+{
+  "directory": "C:/College/erickOS/exercise2/build",
+  "command": "C:/msys64/mingw32/bin/gcc.exe  @CMakeFiles/custom_shell.dir/includes_C.rsp -g -std=gnu99 -o CMakeFiles/custom_shell.dir/src/terminal.c.obj -c C:/College/erickOS/exercise2/src/terminal.c",
+  "file": "C:/College/erickOS/exercise2/src/terminal.c"
+}
+]

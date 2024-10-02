@@ -1,0 +1,3 @@
+C:/College/erickOS/exercise2/build/CMakeFiles/custom_shell.dir
+C:/College/erickOS/exercise2/build/CMakeFiles/edit_cache.dir
+C:/College/erickOS/exercise2/build/CMakeFiles/rebuild_cache.dir
